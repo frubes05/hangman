@@ -1,0 +1,18 @@
+.hangman-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 24px;
+  width: 100%;
+  border: 5px dotted black;
+  padding: 32px;
+  background: lightgreen;
+}
+
+.hangman-error {
+  background: red;
+}
+
+.hangman-errors {
+  align-self: center;
+}

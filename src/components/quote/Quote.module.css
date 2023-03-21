@@ -1,0 +1,15 @@
+.quote {
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  flex-wrap: wrap;
+  max-width: 800px;
+  gap: 32px;
+}
+
+.word {
+  display: flex;
+  padding: 0 12px;
+  font-size: 24px;
+  gap: 4px;
+}
