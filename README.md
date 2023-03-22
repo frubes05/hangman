@@ -1,6 +1,6 @@
 # Getting Started React Hangman
 
-Game link: https://react-hangman-red.vercel.app/
+Live page: https://react-hangman-red.vercel.app/
 
 Game setup:
 
