@@ -5,7 +5,6 @@ import { advancedSort } from "../../utils/sortUtils";
 import styles from './ScoreBoard.module.css';
 
 const ScoreBoard = ({ highscores }) => {
-  console.log(highscores);
   return (
     <Table className={styles.table} striped bordered variant="dark">
       <thead>
